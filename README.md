@@ -1,8 +1,6 @@
  
 
 
-> Open this page at [https://prashantkamdar.github.io/analogbreakout/](https://prashantkamdar.github.io/analogbreakout/)
-
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
